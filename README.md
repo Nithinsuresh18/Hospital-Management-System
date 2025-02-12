@@ -30,8 +30,9 @@ Make sure you have the following installed:
 ### Steps to Install
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
-   cd hospital-management-system
+   git clone https://github.com/Nithinsuresh18/Hospital-Management-System.git
+   cd HOSPITAL MANAGEMENT SYSTEM
+  
    ```
 
 2. **Install Dependencies**
@@ -54,8 +55,7 @@ Make sure you have the following installed:
 3. **Schedule Appointments**: Assign doctors to patients.
 4. **Billing**: Generate and print invoices.
 
-## Screenshots
-*(Add relevant screenshots here)*
+
 
 ## License
 This project is licensed under the MIT License.
@@ -63,6 +63,4 @@ This project is licensed under the MIT License.
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
 
-## Contact
-For any queries or issues, contact: [your-email@example.com](mailto:your-email@example.com).
 
